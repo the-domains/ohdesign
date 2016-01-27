@@ -1,0 +1,28 @@
+name: ohdesign
+favicon: null
+layout_spectrum: 0.5042095449753106
+typography_spectrum: 0.4363655799534172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6662928785663098
+  lightness: 0.24400964681990445
+  saturation: 0.8580034014303237
+  rhythmicContrast: 0.3332625348120928
+purpose: []
